@@ -5,19 +5,19 @@
 }
 
 body{
-        background-color: rgb(57, 57, 168);
+        background-color: rgb(33, 143, 134);
 }
 
 .wrapper {
         width: 80vmin;
         padding: 50px 40px;
-        background-color: brown;
+        background-color: rgb(77, 60, 60);
         position: absolute;
         transform: translate(-50%,-50%);
         top: 50%;
         left: 50%;
         border-radius: 5px;
-        box-shadow: 20px 20px 40px red;
+        box-shadow: 20px 20px 40px rgb(100, 88, 88);
 
 }
 
@@ -29,7 +29,7 @@ span {
 }
 
 p{
-        font-size: 16px;
+        font-size: 23px;
         color: white;
         text-align: center;
         font-weight: 400;
