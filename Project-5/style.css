@@ -1,0 +1,26 @@
+*{
+        margin: 0%;
+        padding: 0%;
+}
+
+.h1{
+padding-top: 20px;
+text-align: center;
+}
+
+.div{
+        text-align: center;
+        padding-top: 10px;
+        
+}
+
+.button{
+        padding: 5px;
+        cursor: pointer;
+        font-size: larger;
+}
+
+.input{
+        font-size: larger;
+        padding: 5px;
+}
